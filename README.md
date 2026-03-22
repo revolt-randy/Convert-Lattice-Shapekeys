@@ -3,7 +3,7 @@
 If a Lattice object has shapekeys, this addon will use the Lattice Modifier's 'Save as Shape Key' option to create a shapekey on the Mesh object.
 
 ## Installation:
-Download the .zip file and install from user preferences -> addons.
+Download the .zip file and install from User Preferences -> Add-ons -> Install from Disk.
 
 ## Useage:
 Select a Lattice object in the 3D view, from the Object menu -> Convert -> Convert Lattice Shape Keys to execute.
